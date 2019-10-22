@@ -1,12 +1,3 @@
-
-
-
-
-variable "ami_name" {
-  type ="string"
-  description = "string"
-  default = "devopstesting"
-}
 variable "ami_id" {
   type ="string"
   description = "string"
