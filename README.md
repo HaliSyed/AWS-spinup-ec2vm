@@ -1,6 +1,6 @@
-# AWS-spinup-ec2vm
+# AWS spin up EC2 Instance
 
-This repo use to create EC2 Instance in AWS just one line of command using Terraform. It create all neccessary resouces for an ec2 instance. 
+This repo use to create EC2 Instance in AWS just one line of command using terraform. It create all neccessary resouces for an ec2 instance. 
 
 
 ## Variables
